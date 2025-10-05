@@ -1,0 +1,97 @@
+/* === HOMEPAGE HERO SECTION === */
+.heroBanner {
+  background-color: #000; /* Black background */
+  color: #fff; /* White text */
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+  padding: 6rem 2rem;
+}
+
+.heroBanner h1 {
+  font-size: 3rem;
+  font-weight: 700;
+  margin-bottom: 1rem;
+  color: #fff;
+}
+
+.heroBanner p {
+  font-size: 1.25rem;
+  color: #ccc;
+  margin-bottom: 2rem;
+}
+
+.buttons {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+/* === BUTTON STYLES === */
+.button {
+  padding: 0.75rem 1.5rem;
+  border-radius: 6px;
+  font-weight: 600;
+  text-decoration: none;
+  transition: background 0.3s ease, color 0.3s ease;
+}
+
+.buttonPrimary {
+  background: #00b3ff; /* Bright blue */
+  color: #000;
+}
+
+.buttonPrimary:hover {
+  background: #009ee0;
+}
+
+.buttonSecondary {
+  border: 1px solid #00b3ff;
+  color: #00b3ff;
+}
+
+.buttonSecondary:hover {
+  background: #00b3ff;
+  color: #000;
+}
+
+/* === FEATURE SECTION (OPTIONAL, IF YOU HAVE ONE) === */
+.features {
+  background-color: #111;
+  color: #fff;
+  padding: 4rem 2rem;
+}
+
+.featuresContainer {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 2rem;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.feature {
+  background: #1a1a1a;
+  padding: 2rem;
+  border-radius: 10px;
+  flex: 1 1 280px;
+  max-width: 320px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.4);
+  transition: transform 0.2s ease;
+}
+
+.feature:hover {
+  transform: translateY(-5px);
+}
+
+.feature h3 {
+  color: #00b3ff;
+  margin-bottom: 0.75rem;
+}
+
+.feature p {
+  color: #ccc;
+  font-size: 0.95rem;
+}
