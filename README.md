@@ -77,14 +77,13 @@ Implementation guide: Prerequisites, step-by-step code, troubleshooting, best pr
 
 ## Structure
 
-protekt-docs/
-├── README.md                          # This file
-├── DOCUMENTATION-PLAN.md              # Strategic plan
-├── docs/
-│   ├── intro.md                       # Welcome document
-│   └── integrate-with-protekt.md      # MFA guide
-├── sidebars.js                        # Navigation config
-└── docusaurus.config.js               # Site config
+- `README.md` - This file
+- `DOCUMENTATION-PLAN.md` - Strategic plan
+- `docs/`
+  - `intro.md` - Welcome document
+  - `integrate-with-protekt.md` - MFA implementation guide
+- `sidebars.js` - Navigation configuration
+- `docusaurus.config.js` - Site configuration
 
 ## Troubleshooting
 
