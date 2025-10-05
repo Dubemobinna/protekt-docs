@@ -78,3 +78,11 @@ Troubleshooting
 ├── Debug Mode
 └── FAQ
 ```
+Root
+├── Branch 1
+│   ├── Leaf A
+│   └── Leaf B
+└── Branch 2
+    ├── Sub-branch X
+    │   └── Sub-leaf Y
+    └── Leaf C
