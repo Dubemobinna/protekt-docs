@@ -2,7 +2,7 @@
 
 **Author:** [Dubem Obinna-Esiowu]  
 **Email:** [dubemobinnaesiowu@gmail.com]  
-**Date:** 6th October 2025
+**Date:** 5th October 2025
 
 Technical Writer assignment for Hackmamba.
 
