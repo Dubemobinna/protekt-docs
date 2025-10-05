@@ -1,6 +1,7 @@
 # Protekt Documentation Project - Strategic Plan
 
-**Author:** Dubem Obinna-Esiowu 
+**Author:** Dubem Obinna-Esiowu
+
 **Date:** 5th October 2025
 
 ---
