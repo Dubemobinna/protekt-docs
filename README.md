@@ -77,13 +77,13 @@ Implementation guide: Prerequisites, step-by-step code, troubleshooting, best pr
 
 ## Structure
 
-- `README.md` - This file
-- `DOCUMENTATION-PLAN.md` - Strategic plan
+- [`README.md`](./README.md) - This file
+- [`DOCUMENTATION-PLAN.md`](./DOCUMENTATION-PLAN.md) - Strategic plan
 - `docs/`
-  - `intro.md` - Welcome document
-  - `integrate-with-protekt.md` - MFA implementation guide
-- `sidebars.js` - Navigation configuration
-- `docusaurus.config.js` - Site configuration
+  - [`intro.md`](./docs/intro.md) - Welcome document
+  - [`integrate-with-protekt.md`](./docs/mfa-implementation.md) - MFA implementation guide
+- [`sidebars.js`](./sidebars.js) - Navigation configuration
+- [`docusaurus.config.js`](./docusaurus.config.js) - Site configuration
 
 ## Troubleshooting
 
