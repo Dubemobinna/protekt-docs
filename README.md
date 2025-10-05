@@ -42,7 +42,7 @@ Complete documentation strategy and implementation for Protekt, a fictional auth
 ### Setup
 ```bash
 # Clone repository
-git clone https://github.com/[your-username]/protekt-docs.git
+git clone https://github.com/Dubemobinna/protekt-docs.git
 cd protekt-docs
 
 # Install dependencies
