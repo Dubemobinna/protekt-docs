@@ -81,10 +81,9 @@ Implementation guide: Prerequisites, step-by-step code, troubleshooting, best pr
 - [`DOCUMENTATION-PLAN.md`](./DOCUMENTATION-PLAN.md) - Strategic plan
 - `docs/`
   - [`intro.md`](./docs/intro.md) - Welcome document
-  - [`integrate-with-protekt.md`](./docs/mfa-implementation.md) - MFA implementation guide
+  - [`mfa-implementation.md`](./docs/mfa-implementation.md) - MFA implementation guide
 - [`sidebars.js`](./sidebars.js) - Navigation configuration
 - [`docusaurus.config.js`](./docusaurus.config.js) - Site configuration
-
 ## Troubleshooting
 
 **Port 3000 in use:**
