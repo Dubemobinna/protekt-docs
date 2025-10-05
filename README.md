@@ -77,13 +77,18 @@ Implementation guide: Prerequisites, step-by-step code, troubleshooting, best pr
 
 ## Structure
 
+## Structure
+
 - [`README.md`](./README.md) - This file
-- [`DOCUMENTATION-PLAN.md`](./DOCUMENTATIONPLAN.md) - Strategic plan
-- `docs/`
-  - [`intro.md`](./docs/intro.md) - Welcome document
-  - [`mfa-implementation.md`](./docs/mfa-implementation.md) - MFA implementation guide
+- [`DOCUMENTATION-PLAN.md`](./DOCUMENTATION-PLAN.md) - Strategic plan
+- `docs/` - Documentation files
+  - `getting-started/`
+    - [`intro.md`](./docs/getting-started/intro.md) - Welcome document
+  - `guides/`
+    - [`mfa-implementation.md`](./docs/guides/mfa-implementation.md) - MFA implementation guide
 - [`sidebars.js`](./sidebars.js) - Navigation configuration
 - [`docusaurus.config.js`](./docusaurus.config.js) - Site configuration
+
 ## Troubleshooting
 
 **Port 3000 in use:**
