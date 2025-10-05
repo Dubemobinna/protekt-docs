@@ -77,8 +77,6 @@ Implementation guide: Prerequisites, step-by-step code, troubleshooting, best pr
 
 ## Structure
 
-## Structure
-
 - [`README.md`](./README.md) - This file
 - [`DOCUMENTATION-PLAN.md`](./DOCUMENTATION-PLAN.md) - Strategic plan
 - `docs/` - Documentation files
