@@ -57,32 +57,27 @@ Developers move through 5 phases, each requiring different documentation:
 ---
 
 ## Information Architecture
-```
-Getting Started
-├── Welcome
-├── Quickstart (<10 min)
-└── Core Concepts
-Guides
-├── Integration (Web, Mobile, Backend)
-├── Features (MFA, Social Login, Sessions)
-└── Security Best Practices
-API Reference
-├── Authentication API
-├── User Management
-└── Webhooks
-SDKs & Tools
-├── JavaScript, Python, Go
-└── CLI
-Troubleshooting
-├── Common Errors
-├── Debug Mode
-└── FAQ
-```
-Root
-├── Branch 1
-│   ├── Leaf A
-│   └── Leaf B
-└── Branch 2
-    ├── Sub-branch X
-    │   └── Sub-leaf Y
-    └── Leaf C
+
+> **Getting Started**
+> - Welcome
+> - Quickstart (<10 min)
+> - Core Concepts
+
+> **Guides**
+> - Integration (Web, Mobile, Backend)
+> - Features (MFA, Social Login, Sessions)
+> - Security Best Practices
+
+> **API Reference**
+> - Authentication API
+> - User Management
+> - Webhooks
+
+> **SDKs & Tools**
+> - JavaScript, Python, Go
+> - CLI
+
+> **Troubleshooting**
+> - Common Errors
+> - Debug Mode
+> - FAQ
