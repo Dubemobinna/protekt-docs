@@ -102,7 +102,7 @@ export default function Home() {
             <div style={cardStyle}>
               <h3 style={cardTitle}>Guides</h3>
               <p>Step-by-step examples and tutorials to help you handle real-world use cases.</p>
-              <Link to="/docs/guides/integrate-with-protekt">Explore guides →</Link>
+              <Link to="/docs/guides/mfa-implementation">Explore guides →</Link>
             </div>
 
             <div style={cardStyle}>
