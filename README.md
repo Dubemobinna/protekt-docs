@@ -99,6 +99,4 @@ npm start -- --port 3001
 rm -rf node_modules package-lock.json
 npm install
 ```
-
-Contact
-Questions? Reach me at dubemobinnaesiowu@gmail.com
+Got questions? Reach me at dubemobinnaesiowu@gmail.com
