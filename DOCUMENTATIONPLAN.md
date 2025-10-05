@@ -117,18 +117,19 @@ Developers move through 5 phases, each requiring different documentation:
 
 ### Content Templates
 
-**Feature Guide Structure:**
+> **Feature Guide Structure:**
 
-Title (action-oriented)
-├── Overview (what you'll learn, time estimate)
-├── Prerequisites (with links)
-├── Step-by-step instructions
-├── Code examples (tested and working)
-├── Troubleshooting
-├── Best practices
-└── Next steps
+> - **Title** (action-oriented)
+> - **Overview** (what you'll learn, time estimate)
+> - **Prerequisites** (with links)
+> - **Step-by-step instructions**
+> - **Code examples** (tested and working)
+> - **Troubleshooting**
+> - **Best practices**
+> - **Next steps**
 
 **Example Quality Standards:**
+
 - Technical accuracy verified by engineering
 - All code examples tested
 - Screenshots current
