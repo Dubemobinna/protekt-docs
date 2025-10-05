@@ -4,12 +4,10 @@ title: Implementing Multi-Factor Authentication
 description: Step-by-step guide to add MFA to your application
 ---
 
-# Implementing Multi-Factor Authentication
-
-**Time to complete:** 15-20 minutes  
-**Difficulty:** Intermediate
-
----
+:::info Time & Difficulty
+Time to complete: 15-20 minutes
+Difficulty: Intermediate
+:::
 
 ## Overview
 
