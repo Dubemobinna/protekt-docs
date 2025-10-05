@@ -29,7 +29,7 @@ Complete documentation strategy and implementation for Protekt, a fictional auth
 - **Platform:** Docusaurus
 - **Documents:**
   - `docs/intro.md` - Introduction to Protekt (prose)
-  - `docs/integrate-with-protekt.md` - MFA implementation guide (technical tutorial)
+  - `docs/mfa-implementation.md` - MFA implementation guide (technical tutorial)
 
 ---
 
