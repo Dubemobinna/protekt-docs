@@ -78,7 +78,7 @@ Implementation guide: Prerequisites, step-by-step code, troubleshooting, best pr
 ## Structure
 
 - [`README.md`](./README.md) - This file
-- [`DOCUMENTATION-PLAN.md`](./DOCUMENTATION-PLAN.md) - Strategic plan
+- [`DOCUMENTATION-PLAN.md`](./DOCUMENTATIONPLAN.md) - Strategic plan
 - `docs/`
   - [`intro.md`](./docs/intro.md) - Welcome document
   - [`mfa-implementation.md`](./docs/mfa-implementation.md) - MFA implementation guide
