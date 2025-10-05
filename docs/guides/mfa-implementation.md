@@ -5,8 +5,9 @@ description: Step-by-step guide to add MFA to your application
 ---
 
 :::info Time & Difficulty
-Time to complete: 15-20 minutes
-Difficulty: Intermediate
+**Time to complete:** 15-20 minutes 
+
+**Difficulty:** Intermediate
 :::
 
 ## Overview
