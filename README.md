@@ -4,8 +4,6 @@
 **Email:** [dubemobinnaesiowu@gmail.com]  
 **Date:** 5th October 2025
 
-Documentation Writer assignment for Hackmamba.
-
 ---
 
 ## Overview
